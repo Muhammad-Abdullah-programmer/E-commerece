@@ -294,6 +294,12 @@
   .right-70 {
     right: calc(var(--spacing) * 70);
   }
+  .right-72 {
+    right: calc(var(--spacing) * 72);
+  }
+  .right-75 {
+    right: calc(var(--spacing) * 75);
+  }
   .right-\[20\%\] {
     right: 20%;
   }
