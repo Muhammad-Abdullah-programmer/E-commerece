@@ -297,6 +297,9 @@
   .right-65 {
     right: calc(var(--spacing) * 65);
   }
+  .right-69 {
+    right: calc(var(--spacing) * 69);
+  }
   .right-70 {
     right: calc(var(--spacing) * 70);
   }
