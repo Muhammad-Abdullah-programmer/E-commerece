@@ -4,48 +4,48 @@ let productContainer = document.getElementById("productContainer")
 
 const products = [
 
-    {title: "LN LENQIN Watch", image: "/src/IMAGES/watches/Ln Lenqin.jpg",
+    {title: "LN LENQIN Watch", image: "/E-commerece/src/IMAGES/watches/Ln Lenqin.jpg",
      price: "PKR 2789"
 
     },
     
-    {title: "BESTKANG Watch", image: "/src/IMAGES/watches/bestking.jpg",
+    {title: "BESTKANG Watch", image: "/E-commerece/src/IMAGES/watches/bestking.jpg",
      price: "PKR 5582"
     },
 
-    {title: "Chronograph Watch", image: "/src/IMAGES/watches/Chronograph.jpg",
+    {title: "Chronograph Watch", image: "/E-commerece/src/IMAGES/watches/Chronograph.jpg",
      price: "PKR 58089"
     },
 
-    {title: "Quartz Analog", image: "/src/IMAGES/watches/Quartz Analog.jpg",
+    {title: "Quartz Analog", image: "/E-commerece/src/IMAGES/watches/Quartz Analog.jpg",
      price: "PKR 2789"
     },
 
-    {title: "Casio Watch", image: "/src/IMAGES/watches/Casio.jpg",
+    {title: "Casio Watch", image: "/E-commerece/src/IMAGES/watches/Casio.jpg",
      price: "PKR 12274"
     },
 
-    {title: "CIVO Watch", image: "/src/IMAGES/watches/CIVO.jpg",
+    {title: "CIVO Watch", image: "/E-commerece/src/IMAGES/watches/CIVO.jpg",
      price: "PKR 3627"
     },
 
 
-     {title: "Short-Selves", image: "/src/IMAGES/shirts/short-sleves.jpg",
+     {title: "Short-Selves", image: "/E-commerece/src/IMAGES/shirts/short-sleves.jpg",
      price: "$100"
     },
-      {title: "Crew Neck T-Shirts", image: "/src/IMAGES/shirts/Crew Neck T-Shirts.jpg",
+      {title: "Crew Neck T-Shirts", image: "/E-commerece/src/IMAGES/shirts/Crew Neck T-Shirts.jpg",
      price: "PKR 2789"
     },
-      {title: "Dri-Power T-Shirt", image: "/src/IMAGES/shirts/Dri-Power.jpg",
+      {title: "Dri-Power T-Shirt", image: "/E-commerece/src/IMAGES/shirts/Dri-Power.jpg",
      price: "PKR 2234"
     },
-      {title: "DryBlend T-Shirt", image: "/src/IMAGES/shirts/DryBlend T-Shirt.jpg",
+      {title: "DryBlend T-Shirt", image: "/E-commerece/src/IMAGES/shirts/DryBlend T-Shirt.jpg",
      price: "PKR 4772"
     },
-      {title: "Men's X-Temp T-Shirt", image: "/src/IMAGES/shirts/Men's X-Temp.jpg",
+      {title: "Men's X-Temp T-Shirt", image: "/E-commerece/src/IMAGES/shirts/Men's X-Temp.jpg",
      price: "PKR 4186"
     },
-      {title: "Crewneck T-Shirt", image: "/src/IMAGES/shirts/Crewneck T-Shirt.jpg",
+      {title: "Crewneck T-Shirt", image: "/E-commerece/src/IMAGES/shirts/Crewneck T-Shirt.jpg",
      price: "PKR 3789"
     },
 
